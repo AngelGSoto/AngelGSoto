@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Luis Angel Gutiérrez Soto 
-- 👀 I’m interested in science, literature, philosophy
+- 👀 I’m interested in science, literature and philosophy
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me
