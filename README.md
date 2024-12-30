@@ -1,7 +1,7 @@
 ## Hi there, I'm Luis Angel Gutiérrez Soto! 👋
 
 ### About Me
-Welcome to my profile! I'm an astronomer passionate about understanding the universe and our place in it. My interests extend beyond science to include literature and philosophy, as they inspire me to explore the world from multiple perspectives. My favorite novel is *One Hundred Years of Solitude* by Gabriel García Márquez.
+Welcome to my profile! I'm an astronomer passionate about understanding the universe and our place in it. My interests extend beyond science to include literature and philosophy, as they inspire me to explore the world from multiple perspectives. My favorite novel is *Cien años de soledad* by Gabriel García Márquez.
 
 ### Personal Background
 I was born in Valledupar, Cesar, Colombia, and grew up in Manaure, Cesar. My journey in education and research has taken me across Latin America, enriching my perspective on science and collaboration.
@@ -25,3 +25,4 @@ Feel free to reach out if you want to collaborate on a project or just say hi!
 📧 [gsoto.angel@gmail.com](mailto:gsoto.angel@gmail.com)  
 🌐 [https://angelgsoto.github.io/](https://angelgsoto.github.io/)  
 📄 [Google Scholar](https://scholar.google.com/citations?user=n2eSin0AAAAJ&hl=en)  
+
