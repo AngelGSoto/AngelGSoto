@@ -15,9 +15,9 @@ I was born in Valledupar, Cesar, Colombia, and grew up in Manaure, Cesar. My jou
 🎓 **Superior Normalist** with emphasis in Spanish Language from ENS María Inmaculada, Colombia.
 
 ### Research Interests
-🔭 **Observational Astrophysics**: Studying celestial objects through advanced photometric and spectroscopic techniques.  
+🔭 **Observational Astrophysics**: Astronomical objects through photometric and spectroscopic techniques.  
 🤖 **Machine Learning and Deep Learning**: Developing models to identify celestial objects like planetary nebulae and symbiotic stars.  
-💡 **Spectral Modeling**: Investigating physical properties of planetary nebulae through spectral data.  
+💡 **Spectral Modeling**: Investigating physical properties of planetary nebulae through spectral data models.  
 📊 **Astrophysical Surveys**: Working with data from S-PLUS, GAIA, Pan-STARRS, and more.
 
 ### Get in Touch
